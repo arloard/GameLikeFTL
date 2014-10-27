@@ -1,9 +1,9 @@
-package com.ltfl.client;
+package com.lftl.client;
 
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.backends.gwt.GwtApplication;
 import com.badlogic.gdx.backends.gwt.GwtApplicationConfiguration;
-import com.ltfl.LFTL;
+import com.lftl.LFTL;
 
 public class HtmlLauncher extends GwtApplication {
 

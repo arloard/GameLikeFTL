@@ -1,11 +1,11 @@
-package com.ltfl;
+package com.lftl;
 
 import org.robovm.apple.foundation.NSAutoreleasePool;
 import org.robovm.apple.uikit.UIApplication;
 
 import com.badlogic.gdx.backends.iosrobovm.IOSApplication;
 import com.badlogic.gdx.backends.iosrobovm.IOSApplicationConfiguration;
-import com.ltfl.LFTL;
+import com.lftl.LFTL;
 
 public class IOSLauncher extends IOSApplication.Delegate {
     @Override

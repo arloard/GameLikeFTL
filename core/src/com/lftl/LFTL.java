@@ -1,4 +1,4 @@
-package com.ltfl;
+package com.lftl;
 
 import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;

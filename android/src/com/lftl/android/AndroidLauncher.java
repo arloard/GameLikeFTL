@@ -1,10 +1,10 @@
-package com.ltfl.android;
+package com.lftl.android;
 
 import android.os.Bundle;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
-import com.ltfl.LFTL;
+import com.lftl.LFTL;
 
 public class AndroidLauncher extends AndroidApplication {
 	@Override
